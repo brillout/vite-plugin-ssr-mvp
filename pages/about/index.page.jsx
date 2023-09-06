@@ -1,5 +1,4 @@
 import './code.css'
-
 export { Page }
 
 function Page() {

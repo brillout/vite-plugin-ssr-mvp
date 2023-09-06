@@ -1,0 +1,1 @@
+This is a demo based on this: https://vite-plugin-ssr.com/scaffold.
