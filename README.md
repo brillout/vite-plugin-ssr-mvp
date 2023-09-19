@@ -1,1 +1,1 @@
-This is a demo based on this: https://vite-plugin-ssr.com/scaffold.
+To get the debug logs shown in https://github.com/brillout/vite-plugin-ssr/issues/1127, replace `node_modules/.pnpm/vite@4.4.9/node_modules/vite/dist/node/chunks/dep-df561101.js` with the patched version: [./dep-df561101.js](./dep-df561101.js).
